@@ -1,0 +1,46 @@
+#first{
+    background-color: teal;
+}
+
+#second{
+    background-color: orange;
+}
+body{
+    margin:auto
+}
+.mydiv{
+    background-color: hotpink;
+}
+
+.commonprop{
+    height: 200px;
+    width:20%;
+    float: left;
+}
+
+.wallpaper{
+    background-image: url('food-wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:1px solid indigo
+}
+
+#heading{
+    color:white;
+    font-size: 80px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+#logo{
+    text-align:center;
+    color:red;
+    font-size:90px;
+    background:white;
+    height:150px;
+    width:150px;
+    margin: auto;
+    margin-top:80px;
+    margin-bottom: 40px;
+    border-radius:50%
+}
