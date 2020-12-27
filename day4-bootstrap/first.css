@@ -1,0 +1,39 @@
+#first{
+    height:150px;
+    background-color: springgreen;
+}
+
+#second{
+    height:150px;
+    background-color:orange;
+}
+
+#third{
+    height:150px;
+    background-color:blue;
+}
+
+#four{
+    height:150px;
+    background-color:salmon;
+}
+
+#five{
+    height:150px;
+    background-color:purple;
+}
+
+
+#six{
+    height:150px;
+    background-color:brown;
+}
+
+.glyphicon-trash{
+    color:red;
+    font-size:20px;
+}
+
+.btn-info{
+    background-color: darkblue;
+}

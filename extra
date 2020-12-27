@@ -20,3 +20,30 @@ tagname
 
 classname   
 id
+
+>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<
+col-xs >768
+col-sm < 768
+col-md 992
+col-lg 1200
+
+>>>>>>>><<<<<<
+to get all code first time
+>>>>>>><<<<<<<<<<<<
+git clone https://github.com/Aakashdeveloper/testdec
+
+git add .
+git commit -m "a"
+git push
+
+>>>>>>first time from new folder<<<<<<<<<<
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/decedu.git
+git push -u origin master
+
+>>>>>>next all time<<<<<
+git add .
+git commit -m "first commit"
+git push
