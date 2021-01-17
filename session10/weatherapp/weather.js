@@ -2,7 +2,7 @@ const CityUrl = "http://localhost:4500"
 
 function getWeather(){
     let City = $('.cities')[0].value;
-    const weatherUrl =`http://api.openweathermap.org/data/2.5/forecast/daily?q=${City}&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29`;
+    const weatherUrl =`http://api.openweathermap.org/data/2.5/forecast/daily?q=${City}&mode=json&units=metric&cnt=5&appid=`;
     $.ajax({
         url:weatherUrl,
         type:'GET',
